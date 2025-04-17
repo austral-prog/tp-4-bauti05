@@ -1,7 +1,6 @@
 def line():
     import math
     
-    print("TO DO")
     txt1=input("Ingrese su coeficiente A:")
     txt2=input("Ingrese su coeficiente B:")
     txt3=input("Ingrese su coeficiente X1:")
